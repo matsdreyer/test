@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3",
+    "python.linting.flake8Path": "/Users/mats/Library/Python/3.7/bin/flake8",
+    "python.formatting.yapfPath": "/Users/mats/Library/Python/3.7/bin/yapf",
+    "editor.formatOnSave": true
+}

@@ -1,0 +1,11 @@
+# vim:fileencoding=utf-8:ft=conf:foldmethod=marker
+
+# {{{ Fonts:
+
+font_family Operator Mono SSm Book
+bold_font Operator Mono SSm Medium
+italic_font Operator Mono SSm Book Italic
+bold_italic_font Operator Mono SSm Medium Italic
+font_size 13.0
+
+# }}}
